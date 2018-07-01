@@ -1,0 +1,12 @@
+
+VertexLitGeneric
+{
+
+	$basetexture models/jessev92/ahl2/characters/hammertime/hammertime_sheet_d
+	$bumpmap models/gman/gman_sheet_normal
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+	$ambientocclusion 1
+
+}

@@ -1,0 +1,12 @@
+
+VertexLitGeneric
+{
+
+	$basetexture models/jessev92/ahl2/characters/jc/charactersharp
+	$bumpmap models/jessev92/ahl2/characters/jc/cagenormal
+
+	$halflambert 1
+	$ambientocclusion 1
+	$lightwarptexture dev/identitylightwarp
+
+}

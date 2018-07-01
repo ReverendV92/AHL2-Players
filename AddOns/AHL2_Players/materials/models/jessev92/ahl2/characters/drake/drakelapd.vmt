@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Players/drake/drakelapd"
+	"$halflambert" 1
+}

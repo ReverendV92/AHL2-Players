@@ -1,0 +1,12 @@
+
+VertexLitGeneric
+{
+
+	$basetexture models/jessev92/ahl2/characters/minky/minky_head
+	$bumpmap dev/bump_normal
+
+	$halflambert 1
+	$ambientocclusion 1
+	$lightwarptexture dev/identitylightwarp
+
+}

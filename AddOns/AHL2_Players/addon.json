@@ -1,0 +1,15 @@
+{
+	"title"		:	"AHL2 Players",
+	"type"		:	"model",
+	"tags"		:	[ "fun", "movie" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.txt*",
+		"*.dua*",
+		"*-temp-*",
+		"*.ztmp*"
+	]
+}

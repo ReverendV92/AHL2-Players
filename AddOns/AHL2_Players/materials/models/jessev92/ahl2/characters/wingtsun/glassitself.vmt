@@ -1,0 +1,17 @@
+
+Refract
+{
+
+	$basetexture models/jessev92/ahl2/characters/wingtsun/glassitself_d
+	$bumpmap models/jessev92/ahl2/characters/wingtsun/glassitself_d
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+	$ambientocclusion 1
+
+	$bluramount 10
+	$refractamount 1
+	$refracttint "{ 100 100 100 }"
+	$scale "[ 0 0 ]"
+	
+}

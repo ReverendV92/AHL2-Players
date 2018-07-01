@@ -1,0 +1,17 @@
+
+VertexLitGeneric
+{
+
+	$basetexture models/jessev92/ahl2/characters/hitman/hitman_face_d
+	$bumpmap models/jessev92/ahl2/characters/hitman/hitman_face_b
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+	$ambientocclusion 1
+
+	$phong 1
+	$phongexponent 9
+	$phongboost 1
+	$phongfresnelranges "[ 0.35 0.35 0.35 ]"
+	
+}

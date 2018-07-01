@@ -1,0 +1,18 @@
+
+VertexLitGeneric
+{
+
+	$basetexture models/jessev92/ahl2/characters/powertrip/powertrip_helmet_d
+	$bumpmap models/jessev92/ahl2/characters/powertrip/powertrip_helmet_b
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+	$ambientocclusion 1
+
+	$phong 1
+	$phongboost 0.1
+	$phongexponent 25
+	$phongexponenttexture models/jessev92/ahl2/characters/powertrip/powertrip_helmet_x
+	$phongfresnelranges "[ 1 1 1 ]"
+
+}

@@ -1,0 +1,14 @@
+
+VertexLitGeneric
+{
+
+	$basetexture models/jessev92/ahl2/characters/detective/glassitself_d
+	$bumpmap dev/bump_normal
+	$lightwarptexture dev/identitylightwarp
+
+	$additive 0
+	$translucent 1
+	$halflambert 1
+	$ambientocclusion 1
+
+}
